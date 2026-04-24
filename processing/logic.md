@@ -56,3 +56,4 @@ To eliminate ambiguity and force clarity through structure.
 Foundation does not generate ideas.
 
 It reveals their true form.
+---
