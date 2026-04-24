@@ -30,7 +30,6 @@ Does it exist yet, or is it only an idea?
 ### 8. Constraints
 What limits, risks, missing pieces, or unknowns exist?
 
----
 
 ## Input Goal
 
